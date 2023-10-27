@@ -1,6 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+# SPDX-License-Identifier: GPL-2.0
+#
+# main.py
+#
+# (C) 2023 Jian Wang
+#
+
 import os
 import sys
 import subprocess
