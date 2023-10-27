@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "HOOK_DOMAIN: ${HOOK_DOMAIN}"
+echo "HOOK_VALIDATION: ${HOOK_VALIDATION}"
+echo "HOOK_REMAINING_CHALLENGES: ${HOOK_REMAINING_CHALLENGES}"
+echo "HOOK_ALL_DOMAINS: ${HOOK_ALL_DOMAINS}"
+#>&2 echo "This is a test error output"
